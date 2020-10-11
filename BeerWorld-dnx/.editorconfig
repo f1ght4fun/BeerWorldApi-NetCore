@@ -1,0 +1,16 @@
+﻿[*.cs]
+
+# CS8618: Non-nullable field is uninitialized. Consider declaring as nullable.
+dotnet_diagnostic.CS8618.severity = warning
+
+# CA1822: Mark members as static
+dotnet_diagnostic.CA1822.severity = none
+
+# CA1031: Do not catch general exception types
+dotnet_diagnostic.CA1031.severity = none
+
+# IDE0062: Make local function 'static'
+csharp_prefer_static_local_function = true:none
+
+# S4457: Parameter validation in "async"/"await" methods should be wrapped
+dotnet_diagnostic.S4457.severity = none

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeerWorld", "BeerWorld-dnx\BeerWorld.csproj", "{B52FC378-59E9-4FA5-B5BD-31EAA609709A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2D2F60F1-CBE0-426B-BF2B-A3668E24144B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseCandidate|Any CPU = ReleaseCandidate|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52FC378-59E9-4FA5-B5BD-31EAA609709A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52FC378-59E9-4FA5-B5BD-31EAA609709A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52FC378-59E9-4FA5-B5BD-31EAA609709A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52FC378-59E9-4FA5-B5BD-31EAA609709A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52FC378-59E9-4FA5-B5BD-31EAA609709A}.ReleaseCandidate|Any CPU.ActiveCfg = ReleaseCandidate|Any CPU
+		{B52FC378-59E9-4FA5-B5BD-31EAA609709A}.ReleaseCandidate|Any CPU.Build.0 = ReleaseCandidate|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A394CE75-01D2-4171-9112-100732CFD805}
+	EndGlobalSection
+EndGlobal

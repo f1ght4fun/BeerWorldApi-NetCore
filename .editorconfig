@@ -1,0 +1,7 @@
+﻿[*.{cs,vb}]
+
+# IDE0060: Remove unused parameter
+dotnet_code_quality_unused_parameters = all:none
+
+# CA1822: Mark members as static
+dotnet_diagnostic.CA1822.severity = none
